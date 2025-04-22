@@ -38,7 +38,7 @@
 
 ## Используемый стек
 - Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, SciPy)
-- Машинное обучение (CatBoost, LightGBM, линейные модели)
+- Машинное обучение (DecisionTreeRegressor, LogisticRegression, RandomForestRegressor)
 - Визуализация (Matplotlib, Seaborn)
 - Документация (Jupyter Notebook, Markdown)
 
